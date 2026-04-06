@@ -1,0 +1,9 @@
+.landing-page {
+  background-image: url('https://images.unsplash.com/photo-1585320806297-9794b3e4eeae'); /* Link ảnh bất kỳ */
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
